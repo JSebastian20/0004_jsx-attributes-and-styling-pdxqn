@@ -16,9 +16,9 @@ ReactDOM.render(
       <li>Noodles</li>
     </ul>
     <div>
-      <img src="https://picsum.photos/200/300?random=1" alt="" />
-      <img src="https://picsum.photos/200/300?random=2" alt="" />
-      <img src="https://picsum.photos/200/300?random=3" alt="" />
+      <img src="https://picsum.photos/200/300?random=1" alt="random image" />
+      <img src="https://picsum.photos/200/300?random=2" alt="random image" />
+      <img src="https://picsum.photos/200/300?random=3" alt="random image" />
     </div>
   </div>,
   document.getElementById("root")
